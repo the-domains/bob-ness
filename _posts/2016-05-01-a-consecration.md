@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A Consecration
-datePublished: '2016-05-01T13:57:21.741Z'
-dateModified: '2016-05-01T13:57:21.138Z'
+datePublished: '2016-05-01T14:01:30.441Z'
+dateModified: '2016-05-01T14:00:15.799Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-01-a-consecration.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-01-a-consecration.md
-published: true
 url: a-consecration/index.html
 _type: Article
 
