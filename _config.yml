@@ -1,0 +1,28 @@
+name: Bob Ness
+favicon: null
+layout_spectrum: 0.15158643969334662
+typography_spectrum: 0.19376413244754076
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4642594517208636
+  lightness: 0.4565918236039579
+  saturation: 0.4228051451500505
+  rhythmicContrast: 0.03882050351239741
+purpose: []
