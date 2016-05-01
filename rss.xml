@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Bob Ness]]></title>
         <description><![CDATA[Bob Ness]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bob-ness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 01:35:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 13:56:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bob-ness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8d08242-1573-4da9-a672-71ea98fa5e4b.jpg">]]></description>
+            <link>https://thegrid.ai/bob-ness/3dbeaf5b-496e-4a47-8b26-3494e2a27136/index.html</link>
+            <guid isPermaLink="false">3dbeaf5b-496e-4a47-8b26-3494e2a27136</guid>
+            <pubDate>Sun, 01 May 2016 13:56:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Bob Ness - A partial journey through the cortex of Robert Bruce Ness. His evolution or de-evolution as some suggest.</p>]]></description>
-            <link>undefinedbob-ness-a-partial-journey-through-the-cortex-of-robert-br/index.html</link>
+            <link>https://thegrid.ai/bob-ness/bob-ness-a-partial-journey-through-the-cortex-of-robert-br/index.html</link>
             <guid isPermaLink="false">014dd6b3-8ef0-45ba-8060-3102df3c6db6</guid>
             <pubDate>Sun, 01 May 2016 01:35:05 GMT</pubDate>
         </item>
