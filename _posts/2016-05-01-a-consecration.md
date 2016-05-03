@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A Consecration
-datePublished: '2016-05-03T19:30:00.291Z'
-dateModified: '2016-05-01T14:01:38.112Z'
+datePublished: '2016-05-03T19:31:07.227Z'
+dateModified: '2016-05-03T19:30:04.439Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-01-a-consecration.md
