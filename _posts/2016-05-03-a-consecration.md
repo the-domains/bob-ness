@@ -4,25 +4,25 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: A Consecration
-datePublished: '2016-05-03T19:36:27.402Z'
-dateModified: '2016-05-03T19:36:20.534Z'
-title: ''
-author: []
-sourcePath: _posts/2016-05-03-a-consecration.md
-published: true
+description: 'A Consecration '
+datePublished: '2016-05-03T19:43:34.468Z'
+dateModified: '2016-05-03T19:43:12.739Z'
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: true
+title: ''
+author: []
+starred: false
+sourcePath: _posts/2016-05-03-a-consecration.md
+published: true
 url: a-consecration/index.html
 _type: Article
 
 ---
-A Consecration
+A Consecration 
 
 Not of the princes and prelates with periwigged charioteers 
 
@@ -32,7 +32,7 @@ Rather the scorned---the rejected---the men hemmed in with the spears;
 
 The men of the tattered battalion which fights till it dies, 
 
-Dazed with the dust of the battle, the din and the cries.
+Dazed with the dust of the battle, the din and the cries. 
 
 The men with the broken heads and the blood running into their eyes. 
 
@@ -42,7 +42,7 @@ Riding cock-horse to parade when the bugles are blown,
 
 But the lads who carried the koppie and cannot be known. 
 
-Not the ruler for me, but the ranker, the tramp of the road,
+Not the ruler for me, but the ranker, the tramp of the road, 
 
 The slave with the sack on his shoulders pricked on with the goad, 
 
@@ -52,7 +52,7 @@ The sailor, the stoker of steamers, the man with the clout,
 
 The chantyman bent at the halliards putting a tune to the shout, 
 
-The drowsy man at the wheel and the tired look-out.
+The drowsy man at the wheel and the tired look-out. 
 
 Others may sing of the wine and the wealth and the mirth, 
 
@@ -62,12 +62,14 @@ Mine be the dirt and the dross, the dust and scum of the earth!
 
 Theirs be the music, the colour, the glory, the gold; 
 
-Mine be a handful of ashes, a mouthful of mould.
+Mine be a handful of ashes, a mouthful of mould. 
 
 Of the maimed, of the halt and the blind in the rain and the cold--- 
 
 Of these shall my songs be fashioned, my tales be told. 
 
-AMEN.
+AMEN. 
 
-John Masefield, 1878--1967
+John Masefield, 1878--1967 
+
+Poet laureate of Great Britain from 1930 until his death
