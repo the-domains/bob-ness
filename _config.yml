@@ -2,6 +2,7 @@ name: Bob Ness
 favicon: null
 layout_spectrum: 0.44374
 typography_spectrum: 0.19209
+title: The Bob
 cta:
   domain: null
   bucket: null
